@@ -1,1 +1,1 @@
-[](img.jpg)
+[a](/img.jpg)
